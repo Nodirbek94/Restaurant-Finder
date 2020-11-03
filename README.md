@@ -3,6 +3,8 @@
 ## Description
 An application that allows the users to search for a restaurant using city and the app will return the results with restaurant name, address and manu and also it will pin point the restaurants location via Google Maps
 
+Deployed Link: https://findtherestaurant500.herokuapp.com/
+
 
 ## Table of Contents
 * [Installation](#installation)
